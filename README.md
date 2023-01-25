@@ -1,2 +1,3 @@
-# formacion-junior
-Documentation for the learning process of software development level junior
+# Formación en Desarrollo de Softwate - Nivel Junior
+
+Documentación para el proceso de aprendizaje en desarrollo de software nivel junior.
