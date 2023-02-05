@@ -1,0 +1,9 @@
+# Sprint 02 - Tarea 07 - Formularios HTML (1-32)
+
+Avanzar hasta la sección 32 del curso **Aprende formularios HTML construyendo un formulario de registro** que esta en la [Certificación (Nuevo) Diseño Web Adaptativo](https://www.freecodecamp.org/espanol/learn/2022/responsive-web-design/)
+
+Además, en su repositorio del proceso de formación (`formacion_junior`), cree una carpeta dentro de  `formacion_junior/cursos/html_css/` que se llame `formularios_html`, con los mismos archivos y elementos de las secciones trabajadas. En este caso todo el texto debe aparecer en español.
+
+**Criterios de Aceptación**
+
+- En el repositorio del proceso de formación se debe evidenciar un commit que incluya los cambios requeridos.
